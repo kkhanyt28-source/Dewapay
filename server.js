@@ -59,5 +59,5 @@ Support Issue: ${issue}
 
 // Server initialization
 app.listen(PORT, () => {
-    console.log("okpayk server running successfully on port " + PORT);
+    console.log("diwapayk server running successfully on port " + PORT);
 });
